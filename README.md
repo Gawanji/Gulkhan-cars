@@ -36,5 +36,5 @@ A responsive car maintenance and repair service website template.
 
 ## Credits
 
-Designed by Qazi Zohaib Ali.
+Designed by Gulkhan Gawangi.
 Modifications and WhatsApp integration by Gawanji.
