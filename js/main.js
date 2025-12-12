@@ -131,7 +131,7 @@
             "Special Request: " + request;
 
         var encodedMessage = encodeURIComponent(message);
-        var url = "https://wa.me/77074715776?text=" + encodedMessage;
+        var url = "https://wa.me/7074715776?text=" + encodedMessage;
 
         window.open(url, '_blank');
     });
